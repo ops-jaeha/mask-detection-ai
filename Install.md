@@ -15,7 +15,12 @@ conda activate mask
 conda install https://storage.googleapis.com/tensorflow/windows/cpu/tensorflow_cpu-2.3.0-cp38-cp38-win_amd64.whl
 ```
 
-## 3. Install other dependencies
+## 3. Intall OpenCV
+```plain
+conda install opencv-python
+```
+
+## 4. Install other dependencies
 
 ```plain
 pip install numpy
