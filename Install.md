@@ -5,7 +5,7 @@ Python version >=3.8(conda) is required.
 ## 1. (Optional) Create a conda environment
 
 ```plain
-conda create -n mask python=3.8.5*
+conda create -n mask python=3.8.5
 conda activate mask
 ```
 
