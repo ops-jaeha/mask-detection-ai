@@ -1,4 +1,4 @@
-# Face_and_Mask_Detection   
+# Mask_Detection_AI   
 실시간 웹캠을 이용해서 마스크를 쓴 확률을 보여준다.
 
 ## Installation
