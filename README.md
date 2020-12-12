@@ -4,6 +4,9 @@
 ## Installation
 Please Check Installation in [Install.md](Install.md).
    
+## Language
+Python 3.8.5
+
 ## Library   
 Tensorflow 2+, OpenCV, Numpy, Matplotlib
 
