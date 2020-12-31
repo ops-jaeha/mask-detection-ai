@@ -23,7 +23,7 @@ while cap.isOpened():
     # 거울모드
     frame = cv2.flip(frame, 1)
 
-    if not ret:
+    if not ret: 
         break
 
     h, w = frame.shape[:2]
