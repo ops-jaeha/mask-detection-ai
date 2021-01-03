@@ -1,6 +1,6 @@
 # Installation
 
-Python version >=3.8(conda) is required.
+Python version >= 3.8(conda) is required.
 
 ## 1. (Optional) Create a conda environment
 
