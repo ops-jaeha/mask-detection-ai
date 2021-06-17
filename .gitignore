@@ -1,1 +1,9 @@
 /.vscode/
+.DS_Store.ipynb_checkpoints/
+observations-master/.DS_Store
+observations-master/experiements/.DS_Store
+observations-master/mask_classifier/.DS_Store
+observations-master/mask_classifier/.ipynb_checkpoints/
+observations-master/mask_classifier/Data_Generator/.DS_Store
+.DS_Store
+.ipynb_checkpoints/
