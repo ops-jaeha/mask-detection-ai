@@ -7,9 +7,7 @@ import torch
 device = torch.device('cpu')
 PATH = 'models/mask_detector.model'
 facenet = cv2.dnn.readNet('models/deploy.prototxt', 'models/res10_300x300_ssd_iter_140000.caffemodel')
-# model = load_model('models/mask_detector.model')
-model = TheModelClass(*args, **kwargs)
-model.eval()
+model = torch.load(PATH, map_location=device)
 
 ## 실시간으로 웹캠 캡쳐하기
 cap = cv2.VideoCapture(0)
