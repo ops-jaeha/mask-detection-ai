@@ -8,7 +8,7 @@ Please Check Installation in [Install.md](https://github.com/CV-JaeHa/virtual-en
 Python 3.8.5
 
 ## Library   
-Tensorflow 2+, OpenCV, Numpy, Matplotlib
+Pytorch, OpenCV, Numpy, Matplotlib
 
 ## Reference
 [Video](https://www.youtube.com/watch?v=ncIyy1doSJ8&t=222s)
