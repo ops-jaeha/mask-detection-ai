@@ -4,12 +4,6 @@
 ## Installation
 Please Check Installation in [INSTALL.md](https://github.com/cv-jaeha/mask-detection-ai/blob/main/INSTALL.md).
 
-## Language
-Python 3.8.5
-
-## Library   
-Pytorch, OpenCV, Numpy, Matplotlib
-
 ## Reference
 [Video](https://www.youtube.com/watch?v=ncIyy1doSJ8&t=222s)
  / 
